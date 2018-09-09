@@ -12,6 +12,7 @@
             "description": "Google Project's Client Secret"
         },
         "GOOGLE_REDIRECT_URL": {
+            "value":"http://node161919-env-7552413.jelastic.dogado.eu/", 
             "description": "Google Project's Redirect url"
         }
     }
