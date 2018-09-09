@@ -4,9 +4,11 @@
     "repository": "https://github.com/Mrigank11/embetacloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
+            "value": "836610457501-lp4fa0q5v4gaubuq6ucb1pb33tb8n6pm.apps.googleusercontent.com",
             "description": "Google Project's Client ID"
         },
         "GOOGLE_CLIENT_SECRET": {
+            "value":"YB4fXrvxo1cF35BkOlbGIHvC",
             "description": "Google Project's Client Secret"
         },
         "GOOGLE_REDIRECT_URL": {
